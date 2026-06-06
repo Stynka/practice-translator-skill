@@ -33,3 +33,13 @@ This skill helps translate those practices into clear, audience-appropriate lang
 - Prioritise clarity over complexity
 - Highlight transformation and impact where relevant
 
+## Recent Improvements
+
+This version includes:
+
+- initial questions before translation begins
+- clearer expected outputs
+- a structured output format
+- measurable quality checks
+- success criteria
+- anti-patterns to prevent vague or over-polished AI language
