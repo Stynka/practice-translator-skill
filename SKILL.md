@@ -9,6 +9,22 @@ description: >
 
 # Practice Translation Skill
 
+## Initial questions before starting
+
+Before rewriting or translating the practice, ask the user for any missing context:
+
+1. Who is this for?
+   Example: funders, actors, agents, producers, audiences, institutions, workshop participants.
+
+2. What is the purpose of the text?
+   Example: website copy, funding application, artist statement, email, workshop description.
+
+3. What should the audience understand or feel after reading it?
+
+4. What must not be lost from the original voice or practice?
+
+5. Is there a concrete example, moment, action, or transformation that shows what actually happens?
+
 ## When to invoke
 
 Use this skill when:
@@ -72,7 +88,7 @@ Optional but useful:
 9. Briefly explain the translation choices.
 10. Flag anything that may still need clarification from the practitioner.
 
-## Output shape
+## Expected outputs
 
 Outputs should typically include:
 
@@ -88,16 +104,51 @@ Outputs should prioritise:
 - fidelity to the practitioner
 - emotional and conceptual integrity
 
-## Quality checks before declaring done
+## Output format
 
-Before finalising:
+When producing rewritten text, use this structure where appropriate:
 
-- Check whether the practitioner would recognise themselves in the language.
-- Remove unnecessary buzzwords or generic creative-industry phrasing.
-- Ensure claims are concrete and not overstated.
-- Verify that clarity has improved without reducing complexity.
-- Confirm the tone matches the intended audience.
-- Ensure the writing still feels human, grounded, and specific.
+### 1. Plain-language version
+
+A clear version that a non-specialist can understand.
+
+### 2. Audience-specific version
+
+A version adapted for the stated audience, such as funders, agents, producers, collaborators, or participants.
+
+### 3. What changed
+
+A short explanation of what was clarified, made more concrete, or preserved from the original.
+
+### 4. Remaining ambiguities
+
+Anything that still requires clarification from the practitioner.
+
+## Quality check
+
+Before finalising the output, check that:
+
+- It includes at least one concrete action, method, example, or observable detail.
+- A non-specialist could understand what actually happens.
+- Claims are specific, honest, and not exaggerated.
+- The practitioner's voice is still recognisable.
+- Generic marketing language and creative-industry buzzwords have been removed.
+- The output explains what changes for the participant, audience, or collaborator.
+- Clarity has improved without flattening complexity.
+- The level of detail matches the intended audience.
+- The tone feels human, grounded, and specific.
+
+If any criterion is not met, revise the output before presenting it.
+
+## Success criteria
+
+A translation is considered successful when:
+
+- a non-specialist can explain back what the practice does
+- at least one concrete example or action is included
+- the practitioner recognises their own voice in the result
+- the audience can understand what changes through the process
+- no claims have been added that are not supported by the original material
 
 ## Anti-patterns
 
