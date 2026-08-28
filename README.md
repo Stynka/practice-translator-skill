@@ -8,6 +8,17 @@ Many creative practices are difficult to describe. When trying to explain them t
 
 This skill helps translate those practices into clear, audience-appropriate language while preserving the original voice and intent.
 
+## How to use it
+
+In Claude, describe your practice:
+- "I teach embodied awareness using movement exploration"
+- "I choreograph large-scale site-specific installations"
+- "I work with actors on voice and presence"
+
+The skill asks clarifying questions, then generates outputs in plain English, professional language, and academic language — all preserving your original voice.
+
+See SKILL.md for technical details.
+
 ## Typical Uses
 
 - Artist statements
